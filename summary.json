@@ -1,0 +1,27 @@
+{
+  "selected_model": "core_31",
+  "selection": "Mean August and September MAE; October untouched until selection.",
+  "october_cold_city_stress": {
+    "MAE": 130.76347637562387,
+    "RMSE": 650.394820211711,
+    "median_absolute_error": 49.67734793922773,
+    "bias": -9.821003810004774
+  },
+  "final_predictions": 12000,
+  "december_min": 802.56,
+  "december_max": 822.47,
+  "signals_policy": "Excluded from final model: unknown availability/provenance and absent in fixed chart inputs.",
+  "features": [
+    "pickup",
+    "delivery",
+    "equipment",
+    "distance",
+    "weight",
+    "weight_missing",
+    "dow_sin",
+    "dow_cos",
+    "year_sin",
+    "year_cos",
+    "day_index"
+  ]
+}

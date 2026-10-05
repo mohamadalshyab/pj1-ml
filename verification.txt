@@ -1,0 +1,8 @@
+Verified 2026-10-05
+Provided scorer: 12,000 final predictions validated; 31 December predictions validated; chart generated.
+Saved model reproduces delivered predictions at 2-decimal precision.
+Final IDs match template order exactly.
+December non-target columns equal the original input.
+All final predictions are finite and positive; positivity-floor activations: 0.
+Report: four pages, visually inspected.
+GitHub repository, Loom recording and application submission: not performed.
